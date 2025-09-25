@@ -62,7 +62,7 @@
       "twenty-nine": "The day where it should have ended",
       "23": "Haaaaaaai, Ashhhhh teehee",
       "mom": "The Devil who doesn't deserve the honor to be called like that",
-      "venus": "Mi razón de poder sonreir cada dia",
+      "venus": "Mi razón de poder sonreir cada dia, la razón por la cual creo de que todo es posible y de que la música es el lenguaje universal para todo, incluso el amor",
       "boreal": "One of the people that I look up to quite often!",
       "andromeda": "My silly 1/2 sibling who I love so much!! Hai Hassyyyyyyyy",
       "kevin": "THE SILLYYYYYYYYYYYYYYYYYYYYYYYYYYYY!!!",
