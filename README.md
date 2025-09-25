@@ -36,7 +36,7 @@
   <script>
     const secrets = {
       "d3mon1x": "No matter how much I love you, sadly this ain't the answer, I'm sorry sweetheart. </3 TnT",
-      "styxsi": "The person who gave me the code to work on it, THANKS YOU STYXS <3 ",
+      "styxsi": "The person who gave me the code to work on it, THANKS YOU STYXS <3... you've been an amazing friend...I can't thanks you enough Styxs, I hope I can see you go far with your talent...",
       "stream": "https://www.twitch.tv/springxy",
       "nick": "He's not here.",
       "valie": "Don't you DARE use that code again, a**hole.",
