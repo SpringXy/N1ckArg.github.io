@@ -94,6 +94,8 @@
       "silence": "You can't keep me quiet, I won't tremble when you try it, everything I know is that I won't go speechless",
       "drako": "Hey, I want you to know that you are one of the most amazing and sweet people I've met in my life, I'm happy to know that I have someone like you on it",
       "skullz": "I hope we can be good friends in the future...but for the love of god...GET THE FUCK OUT OF THE FUCKING GAME!!!!",
+      "ashley": "You though I forgot about it? I love you so much sweetheart ",
+      "addict": "-Insert superskull115 picture here, please!-",
     };
 
     function checkCode() {
