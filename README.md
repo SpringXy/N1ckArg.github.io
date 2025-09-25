@@ -91,7 +91,7 @@
       "spicychoco": "No Zan Zan, this story will not be about them, SOWWYYYYY",
       "bluebell": "the majestic flowers that I wish to see one day!",
       "ramware": "HEY! THIS AIN'T ABOUT THAT, COME ONNNNN!!",
-      "silence": "You can't keep me quiet, I won't tremble when you try it, everything I know is that I won't go speechless"
+      "silence": "You can't keep me quiet, I won't tremble when you try it, everything I know is that I won't go speechless",
       "drako": "Hey, I want you to know that you are one of the most amazing and sweet people I've met in my life, I'm happy to know that I have someone like you on it",
     };
 
