@@ -96,6 +96,10 @@
       "skullz": "I hope we can be good friends in the future...but for the love of god...GET THE FUCK OUT OF THE FUCKING GAME!!!!",
       "ashley": "You though I forgot about it? I love you so much sweetheart ",
       "addict": "Insert superskull115 picture here, please!",
+      "boun": "OMG IS THE SILLYYYYY",
+      "soul": "Do...I have one?...",
+      "nxll": "I wish I could understand you better...",
+      "existencia": "ya se que soy un error...pero por favor...¡¡SACAME ANTES DE QUE SEA TAR-..... (Communication terminated)",
     };
 
     function checkCode() {
