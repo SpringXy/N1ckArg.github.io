@@ -42,7 +42,7 @@
       "valie": "Don't you DARE use that code again, a**hole.",
       "springxy": "Nice Try",
       "gorefield": "PERDONANOS, TE RETRASAMOS 2 AÑOS",
-      "thunder": "Thanks for everything...I love you",
+      "thunder": "Thanks for everything...I love you so much...I wish I could...be able a safe place for you one day dearest...",
       "savory": "I LOVE HIM SO MUCH AAA",
       "error": "N1c3 Tr1, 4n0m4ly",
       "vortex": "The real meaning behind my existence",
