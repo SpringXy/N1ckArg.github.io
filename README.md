@@ -67,7 +67,7 @@
       "kevin": "THE SILLYYYYYYYYYYYYYYYYYYYYYYYYYYYY!!!",
       "cassiopeia": "My little brother who has been one of the most amazing people I´ve known",
       "she": "https://youtu.be/Y0XkS6rTBHE?si=rRcvk8sw9LaNRWkp",
-      "sour": "not everything on life are rainbows... ZANKOW IF YOU DARE MAKE A F****** REFERENCE TO FLAVOR RAVE OR RAINBOW SORBET CUZ OF THIS IM GOING TO KI-",
+      "sour": "Not everything in life is rainbows... ZANKOW, IF YOU DARE MAKE A F****** REFERENCE TO FLAVOR RAVE OR RAINBOW SORBET CUZ OF THIS, I'M GOING TO KI-",
       "sweet": "I wish my childhood was... ZANKOW DON'T YOU DARE"
     };
 
@@ -75,10 +75,11 @@
       const input = document.getElementById("codeInput").value.trim().toLowerCase();
       const messageDiv = document.getElementById("message");
 
+      // Check if the input code exists in the secrets object
       if (secrets.hasOwnProperty(input)) {
         messageDiv.textContent = secrets[input];
       } else {
-        messageDiv.textContent = "Invalid Password. Please try another.";
+        messageDiv.textContent = "Invalid Password. Please try again.";
       }
     }
   </script>
