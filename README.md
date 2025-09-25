@@ -100,6 +100,8 @@
       "soul": "Do...I have one?...",
       "nxll": "I wish I could understand you better...",
       "existencia": "ya se que soy un error...pero por favor...¡¡SACAME ANTES DE QUE SEA TAR-..... (Communication terminated)",
+      "/wavewaves": "/WAVEWAVES!!!!! ^^",
+      "birthday": "is not...that important really ",
     };
 
     function checkCode() {
