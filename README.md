@@ -63,7 +63,7 @@
       "mom": "The Devil who doesn't deserve the honor to be called like that",
       "venus": "Mi razón de poder sonreir cada dia",
       "boreal": "One of the people that I look up to quite often!",
-      "andromeda": "My silly 1/2 sinling who I love so much!! Hai Hassyyyyyyyy",
+      "andromeda": "My silly 1/2 sibling who I love so much!! Hai Hassyyyyyyyy",
       "kevin": "THE SILLYYYYYYYYYYYYYYYYYYYYYYYYYYYY!!!",
       "cassiopeia": "My little brother who has been one of the most amazing people I´ve known"
     };
