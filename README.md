@@ -54,7 +54,7 @@
       "meyuki": "Man, you are one of my best friends, love you man, thanks for everything..",
       "locura": "Thanks you for everything you've done for me so far...I'll never be able to repay you...",
       "ally": "you silly aligator, thanks for being for me even with this short time, thanks you...",
-      "zankow": "Even if you are the youngest person I've known, you still have all my respect",
+      "zankow": "Even if you are the youngest person I've known, you still have all my respect...so...LOCKED AND LOADED!!!",
       "neon": "One of the most talented person's I've ever had the chance to meet",
       "skylar": "HAI YOU BOTTOM BITCH BOYYYYYYYY, love you bro, don't kill me, teehee",
       "cian": "You were one of the one's who made everything I thought impossible into possible, I love you bro, im happy to be your big brother and also be proud of you every day",
