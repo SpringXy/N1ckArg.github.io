@@ -102,7 +102,7 @@
       "existencia": "ya se que soy un error...pero por favor...¡¡SACAME ANTES DE QUE SEA TAR-..... (Communication terminated)",
       "/wavewaves": "/WAVEWAVES!!!!! ^^",
       "birthday": "is not...that important really ",
-      "teto": ""If you dream something, never give up!"...huh...those words why are so familiar?...",
+      "teto": "(If you dream something, never give up!)...huh...those words why are so familiar?...",
       "home": "Do I really have one to where belong?",
       "sun": "Azuhi, Manita, you have been nothing but such a shining star...JUST LIKE THE SUN ITSELF!!!!",
       "static": "why my memory is such a blurr?...WHY CAN'T I REMEMBER WHO I AM?!",
