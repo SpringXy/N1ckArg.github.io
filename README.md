@@ -1,7 +1,8 @@
-<!-- <!DOCTYPE html> -->
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Secret Code Checker</title>
   <style>
     body {
@@ -68,16 +69,22 @@
       "cassiopeia": "My little brother who has been one of the most amazing people I´ve known",
       "she": "https://youtu.be/Y0XkS6rTBHE?si=rRcvk8sw9LaNRWkp",
       "sour": "Not everything in life is rainbows... ZANKOW, IF YOU DARE MAKE A F****** REFERENCE TO FLAVOR RAVE OR RAINBOW SORBET CUZ OF THIS, I'M GOING TO KI-",
-      "sweet": "I wish my childhood was... ZANKOW DON'T YOU DARE"
+      "sweet": "I wish my childhood was... ZANKOW DON'T YOU DARE",
+      "dream" : "P dpzo aoha lclyfaopun P mpnoa mvy...dhz uva mvy uvaopun...huk puzalhk aopunz hjabhssf ohwwlulk...zv wslhzl...kvu'a sla aopz il hdhf..."
     };
 
     function checkCode() {
-      const input = document.getElementById("codeInput").value.trim().toLowerCase();
+      const input = document.getElementById("codeInput").value.trim();
       const messageDiv = document.getElementById("message");
 
-      // Check if the input code exists in the secrets object
-      if (secrets.hasOwnProperty(input)) {
-        messageDiv.textContent = secrets[input];
+      // Convert input to lowercase
+      const lowerCaseInput = input.toLowerCase();
+
+      // Find matching secret, case-insensitive
+      const matchedSecret = secrets[lowerCaseInput];
+
+      if (matchedSecret) {
+        messageDiv.textContent = matchedSecret;
       } else {
         messageDiv.textContent = "Invalid Password. Please try again.";
       }
