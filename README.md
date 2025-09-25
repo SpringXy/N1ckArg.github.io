@@ -49,7 +49,7 @@
       "vortex": "The real meaning behind my existence",
       "ego": "I ALREADY SAID THAT I DESPISE HIM SO MUCH.",
       "password": "Woooooooooow, that's such a nice try from you! /sarc",
-      "downfall": "https://docs.google.com/document/d/1iEz7jnQHbhvrBQa2BzdImWqR1AEm_UDFns2MQQ3GanU/edit?usp=sharing",
+      "journal": "https://docs.google.com/document/d/1pLu0g2PC_e6v18G4_CJXsWstSkNLI0eni0ESWOJmcV0/edit?usp=drivesdk",
       "femboy": "MEYUKI CUT IT OFF DAMNIT",
       "meyuki": "Man, you are one of my best friends, love you man, thanks for everything..",
       "locura": "Thanks you for everything you've done for me so far...I'll never be able to repay you...",
