@@ -106,6 +106,8 @@
       "home": "Do I really have one to where belong?",
       "sun": "Azuhi, Manita, you have been nothing but such a shining star...JUST LIKE THE SUN ITSELF!!!!",
       "static": "why my memory is such a blurr?...WHY CAN'T I REMEMBER WHO I AM?!",
+      "toxic": "Pero...¿la de no desinformar si te la sabes bro?...no te creas bro-",
+      "jibalex": "te quiero mucho enano...nunca cambies por favor...",
     };
 
     function checkCode() {
