@@ -35,7 +35,6 @@
   <div id="message"></div>
 
   <script>
-    // Define the secrets object with various codes and their messages
     const secrets = {
       "d3mon1x": "No matter how much I love you, sadly this ain't the answer, I'm sorry sweetheart. </3 TnT",
       "styxsi": "The person who gave me the code to work on it, THANKS YOU STYXS <3 ",
@@ -74,24 +73,12 @@
       "dream" : "P dpzo aoha lclyfaopun P mpnoa mvy...dhz uva mvy uvaopun...huk puzalhk aopunz hjabhssf ohwwlulk...zv wslhzl...kvu'a sla aopz il hdhf..."
     };
 
-    // Function to check the entered code
     function checkCode() {
-      const input = document.getElementById("codeInput").value.trim();
+      const input = document.getElementById("codeInput").value.trim().toLowerCase();
       const messageDiv = document.getElementById("message");
+      const matchedSecret = secrets[input];
 
-      // Convert the input to lowercase for case-insensitive comparison
-      const lowerCaseInput = input.toLowerCase();
-
-      // Look for the matching secret in the secrets object
-      const matchedSecret = secrets[lowerCaseInput];
-
-      if (matchedSecret) {
-        // If a match is found, display the secret message
-        messageDiv.textContent = matchedSecret;
-      } else {
-        // If no match is found, display an invalid message
-        messageDiv.textContent = "Invalid Password. Please try again.";
-      }
+      messageDiv.textContent = matchedSecret || "Invalid Password. Please try again.";
     }
   </script>
 
