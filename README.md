@@ -65,10 +65,10 @@
       "boreal": "One of the people that I look up to quite often!",
       "andromeda": "My silly 1/2 sibling who I love so much!! Hai Hassyyyyyyyy",
       "kevin": "THE SILLYYYYYYYYYYYYYYYYYYYYYYYYYYYY!!!",
-      "cassiopeia": "My little brother who has been one of the most amazing people I´ve known" ,
-      "she" : "https://youtu.be/Y0XkS6rTBHE?si=rRcvk8sw9LaNRWkp" , 
-      "sour" : "not everything on life are rainbows... ZANKOW IF YOU DARE MAKE A F****** REFERENCE TO FLAVOR RAVE OR RAINBOW SORBET CUZ OF THIS IM GOING TO KI-"
-      "sweet" : "I wish my childhood was... ZANKOW DON'T YOU DARE"
+      "cassiopeia": "My little brother who has been one of the most amazing people I´ve known",
+      "she": "https://youtu.be/Y0XkS6rTBHE?si=rRcvk8sw9LaNRWkp",
+      "sour": "not everything on life are rainbows... ZANKOW IF YOU DARE MAKE A F****** REFERENCE TO FLAVOR RAVE OR RAINBOW SORBET CUZ OF THIS IM GOING TO KI-",
+      "sweet": "I wish my childhood was... ZANKOW DON'T YOU DARE"
     };
 
     function checkCode() {
