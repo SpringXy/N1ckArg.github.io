@@ -88,7 +88,7 @@
       "proud": "Don't worry dad...I'll make you proud one day...maybe not today...but one day for sure!",
       "lizzy": "you lil gremlin, I love you sis but please, get away from the Faz balls",
       "carrousel": "my forever unfinished symphony",
-      "spicy Choco": "No Zan-Zan, this story will not be about them, SOWWYYYYY!",
+      "spicychoco": "No Zan-Zan, this story will not be about them, SOWWYYYYY!",
       "bluebell": "the majestic flowers that I wish to see one day!",
       "ramware": "HEY! THIS AIN'T ABOUT THAT, COME ONNNNN!!",
       "silence": "You can't keep me quiet, I won't tremble when you try it, everything I know is that I won't go speechless"
