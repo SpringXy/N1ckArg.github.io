@@ -125,6 +125,8 @@
       "ballet" : "I want my strings to be pulled no more...I want to finally rest and make the courtain fall...",
       "spanish" : "The language I wished I forgot to be able to feel normal...",
       "family" : "sometimes blood don't relate you to be people to be your family...people you care about can be your family as well!",
+      "geral" : "te quiero mucho man, gracias a ti he aprendido muchas cosas...y jamas sere capaz de agradecertelo lo suficiente",
+      "zorlek" : "eres un pendejo...pero te quiero mucho we...muchas gracias por los consejos y estar siempre ahi para ti",
     };
 
     function checkCode() {
