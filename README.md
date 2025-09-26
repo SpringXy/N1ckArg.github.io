@@ -111,6 +111,9 @@
       "komi": "I wish we could interact more, because of what I've seen so far you seem like a really chill and funny person!",
       "nexus": "I haven't been able to interact with you that much, but I wished I could and then be able to be your friend",
       "music box": "I just wish I could listen to this forever till my gears don't work... https://youtu.be/B2dm1PRd7O4?si=YTmstMW-OdlkDnrQ",
+      "anomaly": "F1n4ll1, y0u 0p3n3d 10ur 3y3s t0 th3 4b50lut3 truth...y0u h4d y0ur fun... 1'll m4k3 5ur3 th4t n3xt t1m3...y0ur m3r3 3x15t3nc3 1s f1n4lly 0v3r.",
+      "pawn": "I DONT WANNA BE CONTROLLED ANYMORE, PLEASE...I JUST WANT TO BE HAPPY",
+      "devoured": "An overwhelming power that comes from above...to destroy the last pieces of humanity that I had left...",
     };
 
     function checkCode() {
