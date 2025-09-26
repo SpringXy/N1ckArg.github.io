@@ -115,6 +115,7 @@
       "pawn": "I DONT WANNA BE CONTROLLED ANYMORE, PLEASE...I JUST WANT TO BE HAPPY",
       "devoured": "An overwhelming power that comes from above...to destroy the last pieces of humanity that I had left...",
       "doublem": "BRAWL STARS RANKEDS WHEN?! love you man",
+      "november": "Some people who were born in this month they exist because of love...is not the same about me...",
       "lz": "One of the few who would have never realized...if I was replaced with something else...is not to late to apologize for what have happened...do it before you see that THING comes back...",
     };
 
