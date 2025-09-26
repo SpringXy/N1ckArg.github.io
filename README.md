@@ -114,7 +114,7 @@
       "anomaly": "F1n4ll1, y0u 0p3n3d 10ur 3y3s t0 th3 4b50lut3 truth...y0u h4d y0ur fun... 1'll m4k3 5ur3 th4t n3xt t1m3...y0ur m3r3 3x15t3nc3 1s f1n4lly 0v3r.",
       "pawn": "I DONT WANNA BE CONTROLLED ANYMORE, PLEASE...I JUST WANT TO BE HAPPY",
       "devoured": "An overwhelming power that comes from above...to destroy the last pieces of humanity that I had left...",
-      "Lz" : "One of the few who would have never realized...if I was replaced with something else..."
+      "Lz" : "One of the few who would have never realized...if I was replaced with something else...is not to late to apologize for what have happened...do it before you see that THING comes back..."
       "doublem": "BRAWL STARS RANKEDS WHEN?! love you man",
     };
 
