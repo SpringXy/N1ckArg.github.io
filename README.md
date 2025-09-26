@@ -127,6 +127,8 @@
       "family" : "sometimes blood don't relate you to be people to be your family...people you care about can be your family as well!",
       "geral" : "te quiero mucho man, gracias a ti he aprendido muchas cosas...y jamas sere capaz de agradecertelo lo suficiente",
       "zorlek" : "eres un pendejo...pero te quiero mucho we...muchas gracias por los consejos y estar siempre ahi para mi",
+      "agrio" : "el lider de la agrio pandillaaaaaaa, te quiero mucho we",
+      "flavor rave" : "If it weren't for this mod I would have never...been happy at the end...Thanks you Duster...for everything...",
     };
 
     function checkCode() {
