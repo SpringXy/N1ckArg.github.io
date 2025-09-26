@@ -121,6 +121,8 @@
       "amethyst" : "I wish I could protect myself...just like the amethyst I own does...",
       "saturn" : "sometimes...people need to be protected...but in my case I don't need protection...I wanna be the one protecting you!",
       "mercury" : "you've been nothing but sweet with me...and I hope I can repay you back everything you've done for me...",
+      "crown" : "(Think no evil) ... I rather forget...to be able to forgive...",
+      "ballet" : "I want my strings to be pulled no more...I want to finally rest and make the courtain fall...",
     };
 
     function checkCode() {
