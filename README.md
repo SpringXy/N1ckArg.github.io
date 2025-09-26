@@ -108,6 +108,9 @@
       "static": "why my memory is such a blurr?...WHY CAN'T I REMEMBER WHO I AM?!",
       "toxic": "Pero...¿la de no desinformar si te la sabes bro?...no te creas bro-",
       "jibalex": "te quiero mucho enano...nunca cambies por favor...",
+      "komi": "I wish we could interact more, because of what I've seen so far you seem like a really chill and funny person!",
+      "nexus": "I haven't been able to interact with you that much, but I wished I could and then be able to be your friend",
+      "music box": "I just wish I could listen to this forever till my gears don't work... https://youtu.be/B2dm1PRd7O4?si=YTmstMW-OdlkDnrQ",
     };
 
     function checkCode() {
