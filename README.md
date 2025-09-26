@@ -117,8 +117,10 @@
       "doublem": "BRAWL STARS RANKEDS WHEN?! love you man",
       "november": "Some people who were born in this month they exist because of love...is not the same about me...",
       "lz": "One of the few who would have never realized...if I was replaced with something else...is not to late to apologize for what have happened...do it before you see that THING comes back...",
-      "gear" : "I just wanna be myself again...Is that hard to understand?..."
-      "amethyst" : "I wish I could protect myself...just like the amethyst I own does..."
+      "gear" : "I just wanna be myself again...Is that hard to understand?...",
+      "amethyst" : "I wish I could protect myself...just like the amethyst I own does...",
+      "saturn" : "sometimes...people need to be protected...but in my case I don't need protection...I wanna be the one protecting you!",
+      "mercury" : "you've been nothing but sweet with me...and I hope I can repay you back everything you've done for me...",
     };
 
     function checkCode() {
