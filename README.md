@@ -148,7 +148,7 @@
       const messageDiv = document.getElementById("message");
       const matchedSecret = secrets[input];
 
-      messageDiv.textContent = matchedSecret || "Invalid Password. Please try again.";
+      messageDiv.textContent = matchedSecret || "Word Unmatched. Have other idea in mind?.";
     }
   </script>
 
