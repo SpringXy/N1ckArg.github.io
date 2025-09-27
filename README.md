@@ -141,15 +141,13 @@
       "nitro": "WELCOME TO THE FUNKTRIX!",
       "carmen": "An amazing friend and such a sweet person",
       "vampire squid": "IS JUST A LIL SILLY GUY!!!!",
-      "l&l": "Don't be fools...FOLLOW THE RULES!",
-      "catnap": "ARTIFICIAL FAÇADE, FROM A FRAUD OF A GOD
+      "security twins": "Don't be fools...FOLLOW THE RULES!",
+      "catnap": "ARTIFICIAL FACADE, FROM A FRAUD OF A GOD
 ALL DUE TO THE PATH THAT WE TROD",
       "b.a.d.4": "ZZSKULLS I LOVE YOU SO F****** MUCH AAAAAA",
       "flowey": "everyone hates you...but I don't...",
       "chacal": "You might be an idiot Ray...and yet...I care about you, you dumbass...",
       "deimos": "YIPPE KAH YEAH!!",
-      "dangerous": "Well, it's a little bit dangerous, my friend
-You'll need a mindset change for this!",
       "canvas": "CHINGA TU MADRE INK",
     };
 
