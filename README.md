@@ -149,6 +149,7 @@
       "deimos": "YIPPE KAH YEAH!!",
       "canvas": "CHINGA TU MADRE INK",
       "dangerous": "MY FAVORITE EPIC SONG!!!",
+      "p.A.i.nter": "Just like you...I wanna be free as well...",
     };
 
     function checkCode() {
