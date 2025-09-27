@@ -148,6 +148,7 @@
       "chacal": "You might be an idiot Ray...and yet...I care about you, you dumbass...",
       "deimos": "YIPPE KAH YEAH!!",
       "canvas": "CHINGA TU MADRE INK",
+      "dangerous": "MY FAVORITE EPIC SONG!!!",
     };
 
     function checkCode() {
