@@ -86,7 +86,7 @@
       "uncle": "I miss you every day that has passed...I wish I could be able to see you once again and be able to see the man I've became...I hope you are proud of me...whenever you are",
       "nova": "I wish...you were able to see how much I've grown, no matter how hard I try, you'll always see me as your little boy...I love you so much",
       "proud": "Don't worry dad...I'll make you proud one day...maybe not today...but one day for sure!",
-      "lizzy": "you lil gremlin, I love you sis but please, get away from the Fazz balls",
+      "lizzy": "you lil gremlin I'm beyond proud of you every day that passes, I love you sis but please, get away from the Fazz balls...",
       "carousel": "my forever unfinished symphony",
       "spicychoco": "No Zan Zan, this story will not be about them, SOWWYYYYY",
       "bluebell": "the majestic flowers that I wish to see one day!",
