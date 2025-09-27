@@ -152,6 +152,7 @@ ALL DUE TO THE PATH THAT WE TROD",
 You'll need a mindset change for this
 You cannot get away with playing safe for this
 You wanna get home? Put it all on the line!",
+      "canvas": "CHINGA TU MADRE INK",
     };
 
     function checkCode() {
