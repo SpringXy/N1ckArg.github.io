@@ -129,6 +129,10 @@
       "zorlek" : "eres un pendejo...pero te quiero mucho we...muchas gracias por los consejos y estar siempre ahi para mi",
       "agrio" : "el lider de la agrio pandillaaaaaaa, te quiero mucho we",
       "flavor rave" : "If it weren't for this mod I would have never...been happy at the end...Thanks you Duster...for everything...",
+      "lava" : "Never lose hope...because the passion that ignites your heart is more powerful than you think",
+      "ghost" : "why do I feel like this every day?...https://youtu.be/YlEb3L1PIco?si=5td1u03p0WcPfkjZ",
+      "Lily of the valley" : "A flower I hope to be able to gift the person I love the most",
+      "reboot" : "J oir'u alyol as cenv uz vi b ixzutirmidd qfjtfx...AWFLMI, JW DZ ILLH US RPU EBEU?! XSLU T DYTX HLOE NS OS WZORYV CI L RIZMX JR APPAFIT PTQF?!, EBEU QJ WJQY HPR'E POO VYSRE WJVY E GSCPTE UX ULP SBYXW PJ WLWL...jpfedp...ipft ni rpu zox pj esjd hmhlexbcy...",
     };
 
     function checkCode() {
