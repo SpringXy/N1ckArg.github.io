@@ -139,7 +139,7 @@
       "astro": "I love playing with him...I'm always like him...sleepy...",
       "blue": "Really? Did you really thought that it was going to be THAT obvious? come on, try harder!",
       "nitro": "WELCOME TO THE FUNKTRIX!",
-      "carmen": "An amazing friend and wuch",
+      "carmen": "An amazing friend and such a sweet person",
       "vampire squid": "IS JUST A LIL SILLY GUY!!!!",
     };
 
