@@ -133,6 +133,14 @@
       "ghost" : "why do I feel like this every day?...https://youtu.be/YlEb3L1PIco?si=5td1u03p0WcPfkjZ",
       "lilyofthevalley" : "A flower I hope to be able to gift the person I love the most",
       "reboot" : "J oir'u alyol as cenv uz vi b ixzutirmidd qfjtfx...AWFLMI, JW DZ ILLH US RPU EBEU?! XSLU T DYTX HLOE NS OS WZORYV CI L RIZMX JR APPAFIT PTQF?!, EBEU QJ WJQY HPR'E POO VYSRE WJVY E GSCPTE UX ULP SBYXW PJ WLWL...jpfedp...ipft ni rpu zox pj esjd hmhlexbcy...",
+      "bestpal": "DON'T YOU GET IT?! IM YOUR BEST PAL!...AND WE'LL BE TOGETHER...FOREVER AHAHAHHAHAHAHAHAHA",
+      "Mafioso": "My husband",
+      "Osana": "an amazing friend and the best head canon voice of Rouxls!",
+      "Astro": "I love playing with him...I'm always like him...sleepy...",
+      "Blue": "Really? Did you really thought that it was going to be THAT obvious? come on, try harder!",
+      "nitro": "WELCOME TO THE FUNKTRIX!",
+      "carmen": "An amazing friend and wuch",
+      "vampire squid": "IS JUST A LIL SILLY GUY!!!!",
     };
 
     function checkCode() {
