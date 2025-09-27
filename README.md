@@ -150,6 +150,7 @@
       "canvas": "CHINGA TU MADRE INK",
       "dangerous": "MY FAVORITE EPIC SONG!!!",
       "painter": "Just like you...I wanna be free as well...",
+      "brainless": "Those two are my safe place...and every time I'm with them is this song playing in loop in my head...https://youtu.be/-5eAA3KnCiM?si=V0eKfMq8KOdsWcwB",
     };
 
     function checkCode() {
