@@ -149,9 +149,7 @@ ALL DUE TO THE PATH THAT WE TROD",
       "chacal": "You might be an idiot Ray...and yet...I care about you, you dumbass...",
       "deimos": "YIPPE KAH YEAH!!",
       "dangerous": "Well, it's a little bit dangerous, my friend
-You'll need a mindset change for this
-You cannot get away with playing safe for this
-You wanna get home? Put it all on the line!",
+You'll need a mindset change for this!",
       "canvas": "CHINGA TU MADRE INK",
     };
 
