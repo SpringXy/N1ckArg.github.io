@@ -151,6 +151,20 @@
       "dangerous": "MY FAVORITE EPIC SONG!!!",
       "painter": "Just like you...I wanna be free as well...",
       "brainless": "Those two are my safe place...and every time I'm with them is this song playing in loop in my head...https://youtu.be/-5eAA3KnCiM?si=V0eKfMq8KOdsWcwB",
+      "sin": "A la larga, mi existencia únicamente será un pecado el cual se ha de tener que afrontar tarde o temprano...",
+      "loneliness": "what I don't wanna feel anymore...",
+      "respect": "Am I a joke to you...right?...",
+      "no": "Cut it with the lies.",
+      "yes": "words tend to cut deeper than a sword...",
+      "sword": "What I'll use to be free one day...",
+      "valentina": "Can you...stop calling me by that name tainted with fear, tears and blood...",
+      "fear": "I just want someone to stay...",
+      "tears": "Will...be that day like the last time?...",
+      "blood": "please...stop the pain...I don't wanna feel anything anymore...",
+      "feel": "NOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORE...",
+      "mars": "a nickname that made my heart go faster and also gave me a lighter way to see myself...",
+      "neptune": "I don't want to be...drowned by your existence anymore...",
+      "earth": "the place from where...I should have been gone...",
     };
 
     function checkCode() {
