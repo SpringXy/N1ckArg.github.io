@@ -98,7 +98,7 @@
       "addict": "Insert superskull115 picture here, please!",
       "boun": "OMG IS THE SILLYYYYY",
       "soul": "Do...I have one?...",
-      "nxll": "I wish I could understand you better...",
+      "nxll": "for me you'll never be a character...for me I see the wonderful person behind the creation of the character...",
       "existencia": "ya se que soy un error...pero por favor...¡¡SACAME ANTES DE QUE SEA TAR-..... (Communication terminated)",
       "/wavewaves": "/WAVEWAVES!!!!! ^^",
       "birthday": "is not...that important really ",
