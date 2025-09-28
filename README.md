@@ -165,6 +165,7 @@
       "mars": "a nickname that made my heart go faster and also gave me a lighter way to see myself...",
       "neptune": "I don't want to be...drowned by your existence anymore...",
       "earth": "the place from where...I should have been gone...",
+      "look to the night": "WHAT DO YOU SEE?!<3",
     };
 
     function checkCode() {
