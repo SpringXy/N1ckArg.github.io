@@ -166,6 +166,9 @@
       "neptune": "I don't want to be...drowned by your existence anymore...",
       "earth": "the place from where...I should have been gone...",
       "look to the night": "WHAT DO YOU SEE?!<3",
+      "zerobelow": "You are amazing man! and my respect for you only is increasing!!!!!",
+      "annihilation": "Is that day already?...",
+      "help": "I screamed with all my voice...but...no one came to help...",
     };
 
     function checkCode() {
