@@ -44,7 +44,7 @@
       "gorefield": "PERDONANOS, TE RETRASAMOS 2 AÑOS",
       "thunder": "Thanks for everything...I love you so much...I wish I could...be able a safe place for you one day dearest...",
       "savory": "I LOVE HIM SO MUCH AAA",
-      "error": "N1c3 Tr1, 4n0m4ly",
+      "error": "https://imgur.com/a/vr7zK2W",
       "vortex": "The real meaning behind my existence",
       "ego": "I ALREADY SAID THAT I DESPISE HIM SO MUCH.",
       "password": "Woooooooooow, that's such a nice try from you! /sarc",
