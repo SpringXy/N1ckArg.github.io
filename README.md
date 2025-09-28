@@ -169,6 +169,8 @@
       "zerobelow": "You are amazing man! and my respect for you only is increasing!!!!!",
       "annihilation": "Is that day already?...",
       "help": "I screamed with all my voice...but...no one came to help...",
+      "carina": "You are amazing man, and I'm MORE than sure that with your charisma you'll be a huge streamer one day...I'm more than sure Olly...",
+      "ara": "Sora you are an amazing friend and also someone sweet...please, never change...I'm beyond happy to have someone like you as a friend!!",
     };
 
     function checkCode() {
