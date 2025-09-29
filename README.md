@@ -27,8 +27,8 @@
 </head>
 <body>
 
-  <h1>HELLO DEAR USER</h1>
-  <h2>ENTER PASSWORD</h2>
+  <h1>Greetings Anomaly.</h1>
+  <h2>Enter your guess.</h2>
   <input type="text" id="codeInput" placeholder="•••" />
   <button onclick="checkCode()">Submit</button>
   <div id="message"></div>
