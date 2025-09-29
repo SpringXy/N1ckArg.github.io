@@ -87,7 +87,7 @@
       "nova": "I wish...you were able to see how much I've grown, no matter how hard I try, you'll always see me as your little boy...I love you so much",
       "proud": "Don't worry dad...I'll make you proud one day...maybe not today...but one day for sure!",
       "lizzy": "you lil gremlin I'm beyond proud of you every day that passes, I love you sis but please, get away from the Fazz balls...",
-      "carousel": "my forever unfinished symphony",
+      "carousel": "https://drive.google.com/file/d/1-1jKtEJGAm4syVuiej8LkRKXzb1E7ZQB/view?usp=drivesdk",
       "spicychoco": "No Zan Zan, this story will not be about them, SOWWYYYYY",
       "bluebell": "the majestic flowers that I wish to see one day!",
       "ramware": "HEY! THIS AIN'T ABOUT THAT, COME ONNNNN!!",
