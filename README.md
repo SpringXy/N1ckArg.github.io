@@ -174,6 +174,8 @@
       "poetry": "Parents say to their kids...(Wish upon a star...and your dreams will come true)...however no matter what what my soul needs...my night sky will always become some blue hue...",
       "stars": "I wish...to be able to see them with them one day...",
       "autumn": "I dream with being able to smile and leave my problems go away...just like the leafs in the fall...",
+      "nicholas": "Thanks you...",
+      "name": "My name...is important just like me...right?...",
     };
 
     function checkCode() {
