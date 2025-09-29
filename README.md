@@ -171,6 +171,9 @@
       "help": "I screamed with all my voice...but...no one came to help...",
       "carina": "You are amazing man, and I'm MORE than sure that with your charisma you'll be a huge streamer one day...I'm more than sure Olly...",
       "ara": "Sora you are an amazing friend and also someone sweet...please, never change...I'm beyond happy to have someone like you as a friend!!",
+      "poetry": "Parents say to their kids...(Wish upon a star...and your dreams will come true)...however no matter what what my soul needs...my night sky will always become some blue hue...",
+      "stars": "I wish...to be able to see them with them one day...",
+      "autumn": "I dream with being able to smile and leave my problems go away...just like the leafs in the fall...",
     };
 
     function checkCode() {
