@@ -177,6 +177,9 @@
       "nicholas": "Thanks you...",
       "name": "My name...is important just like me...right?...",
       "lu lu": "I want you to know that I love you a lot...and I'm beyond happy to have you in my life man...thanks you...",
+      "childhood": "I'm sorry for not being able to keep your smile and spark alive lil one...",
+      "beautiful": "what I feel that I don't deserve to be called as..",
+      "dream": "What I dream of quite often is with being able to not be scared of smiling or laughing",
     };
 
     function checkCode() {
