@@ -176,6 +176,7 @@
       "autumn": "I dream with being able to smile and leave my problems go away...just like the leafs in the fall...",
       "nicholas": "Thanks you...",
       "name": "My name...is important just like me...right?...",
+      "lu lu": "I want you to know that I love you a lot...and I'm beyond happy to have you in my life man...thanks you...",
     };
 
     function checkCode() {
