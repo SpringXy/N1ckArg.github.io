@@ -82,7 +82,7 @@
       "faby": "TE QUIERO MUCHO HERMANA!!!, I'm so happy to have you as my online big sister and I'm sure that Happy artist will go far just like your talent!!!!!",
       "midnight": "thanks for being there for me when I needed you, you are amazing media noche...I mean it",
       "moonfallen": "Silence is the only what prevails...but will you sit under the stargazing night...to listen to it?",
-      "grandfather": "I wish you were still here to see who I am now...I miss you dearly every day...",
+      "grandfather": "I wish you were still here to see who I am now...I miss you dearly every day...It has already passed 3 Years...I wish to be able to turn back time with all my heart...I wished to know if you are proud of me now...",
       "uncle": "I miss you every day that has passed...I wish I could be able to see you once again and be able to see the man I've became...I hope you are proud of me...whenever you are",
       "nova": "I wish...you were able to see how much I've grown, no matter how hard I try, you'll always see me as your little boy...I love you so much",
       "proud": "Don't worry dad...I'll make you proud one day...maybe not today...but one day for sure!",
