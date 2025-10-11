@@ -181,6 +181,7 @@
       "beautiful": "what I feel that I don't deserve to be called as..",
       "dream": "What I dream of quite often is with being able to not be scared of smiling or laughing",
       "tired": "sometimes I feel I need melatonin...",
+      "forgotten": "Every single time I talk with the people I care about and don't giving an actual f*** about what I say or do...makes me wonder if I'm just annoying them...then why they are keeping someone like me around...if I'm not that needed?...",
     };
 
     function checkCode() {
