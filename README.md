@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -117,22 +118,22 @@
       "doublem": "BRAWL STARS RANKEDS WHEN?! love you man",
       "november": "Some people who were born in this month they exist because of love...is not the same about me...",
       "lz": "One of the few who would have never realized...if I was replaced with something else...is not to late to apologize for what have happened...do it before you see that THING comes back...",
-      "gear" : "WHY DONT YOU STOP WORKING ONCE AND FOR ALL?!",
-      "amethyst" : "I wish I could protect myself...just like the amethyst I own does...",
-      "saturn" : "sometimes...people need to be protected...but in my case I don't need protection...I wanna be the one protecting you!",
-      "mercury" : "you've been nothing but sweet with me...and I hope I can repay you back everything you've done for me...",
-      "crown" : "(Think no evil) ... I rather forget...to be able to forgive...",
-      "ballet" : "I want my strings to be pulled no more...I want to finally rest and make the courtain fall...",
-      "spanish" : "The language I wished I forgot to be able to feel normal...",
-      "family" : "sometimes blood don't relate you to be people to be your family...people you care about can be your family as well!",
-      "geral" : "te quiero mucho man, gracias a ti he aprendido muchas cosas...y jamas sere capaz de agradecertelo lo suficiente",
-      "zorlek" : "eres un pendejo...pero te quiero mucho we...muchas gracias por los consejos y estar siempre ahi para mi",
-      "agrio" : "el lider de la agrio pandillaaaaaaa, te quiero mucho we",
-      "flavor rave" : "If it weren't for this mod I would have never...been happy at the end...Thanks you Duster...for everything...",
-      "lava" : "Never lose hope...because the passion that ignites your heart is more powerful than you think",
-      "ghost" : "why do I feel like this every day?...https://youtu.be/YlEb3L1PIco?si=5td1u03p0WcPfkjZ",
-      "lilyofthevalley" : "A flower I hope to be able to gift the person I love the most",
-      "reboot" : "J oir'u alyol as cenv uz vi b ixzutirmidd qfjtfx...AWFLMI, JW DZ ILLH US RPU EBEU?! XSLU T DYTX HLOE NS OS WZORYV CI L RIZMX JR APPAFIT PTQF?!, EBEU QJ WJQY HPR'E POO VYSRE WJVY E GSCPTE UX ULP SBYXW PJ WLWL...jpfedp...ipft ni rpu zox pj esjd hmhlexbcy...",
+      "gear": "WHY DONT YOU STOP WORKING ONCE AND FOR ALL?!",
+      "amethyst": "I wish I could protect myself...just like the amethyst I own does...",
+      "saturn": "sometimes...people need to be protected...but in my case I don't need protection...I wanna be the one protecting you!",
+      "mercury": "you've been nothing but sweet with me...and I hope I can repay you back everything you've done for me...",
+      "crown": "(Think no evil) ... I rather forget...to be able to forgive...",
+      "ballet": "I want my strings to be pulled no more...I want to finally rest and make the courtain fall...",
+      "spanish": "The language I wished I forgot to be able to feel normal...",
+      "family": "sometimes blood don't relate you to be people to be your family...people you care about can be your family as well!",
+      "geral": "te quiero mucho man, gracias a ti he aprendido muchas cosas...y jamas sere capaz de agradecertelo lo suficiente",
+      "zorlek": "eres un pendejo...pero te quiero mucho we...muchas gracias por los consejos y estar siempre ahi para mi",
+      "agrio": "el lider de la agrio pandillaaaaaaa, te quiero mucho we",
+      "flavor rave": "If it weren't for this mod I would have never...been happy at the end...Thanks you Duster...for everything...",
+      "lava": "Never lose hope...because the passion that ignites your heart is more powerful than you think",
+      "ghost": "why do I feel like this every day?...https://youtu.be/YlEb3L1PIco?si=5td1u03p0WcPfkjZ",
+      "lilyofthevalley": "A flower I hope to be able to gift the person I love the most",
+      "reboot": "J oir'u alyol as cenv uz vi b ixzutirmidd qfjtfx...AWFLMI, JW DZ ILLH US RPU EBEU?! XSLU T DYTX HLOE NS OS WZORYV CI L RIZMX JR APPAFIT PTQF?!, EBEU QJ WJQY HPR'E POO VYSRE WJVY E GSCPTE UX ULP SBYXW PJ WLWL...jpfedp...ipft ni rpu zox pj esjd hmhlexbcy l “fdu” tfvdzol nenftéy...qpls tswz...wl u xfvxtoll itxp aszsidxz npxi pp ufp qtyrts j djphxp, iy wbd msnfclt aiv fp dtnafi iinsp oy uvi nzodoqp qt aszjmp fctmwi...nbqád dfcé weqek of dyv tyqtdtyrui alsl uphytpo...yc wjuftfcu pp wzj qlle ní qtdnz...ypme epoíl leaór, dzmz ybjwez qlle bxzcnphxbv l wpd xináw, wl hphxf wp mvcfe ei xt...oz mi bpprslh gpr wz rfy lbkz...",
       "bestpal": "DON'T YOU GET IT?! IM YOUR BEST PAL!...AND WE'LL BE TOGETHER...FOREVER AHAHAHHAHAHAHAHAHA",
       "mafioso": "My husband",
       "osana": "an amazing friend and the best head canon voice of Rouxls!",
@@ -161,7 +162,7 @@
       "fear": "I just want someone to stay...",
       "tears": "Will...be that day like the last time?...",
       "blood": "please...stop the pain...I don't wanna feel anything anymore...",
-      "feel": "NOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORE...",
+      "feel": "NOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORENOMORE...",
       "mars": "a nickname that made my heart go faster and also gave me a lighter way to see myself...",
       "neptune": "I don't want to be...drowned by your existence anymore...",
       "earth": "the place from where...I should have been gone...",
@@ -182,15 +183,14 @@
       "dream": "What I dream of quite often is with being able to not be scared of smiling or laughing",
       "tired": "I just...wanna close my eyes forever already...",
       "forgotten": "Every single time I talk with the people I care about and don't giving an actual f*** about what I say or do...makes me wonder if I'm just annoying them...then why they are keeping someone like me around...if I'm not that needed?...",
-      "arg": "Fdnsz gzytncioxp of boi nm pdgfyvas yz wlfi me apol jese pxqptes, rz pt eur jrepspmeoxp z beledxtgp wi uvi slhz, ¿jss ufé looi tfvotfyxs nm xlmocxp xtpnai lbgtpooi emkz ltí?...dipp...ufpsíl bedic lmri uvi wp ucunfvl fol msovtdb l kyjiypt bomfvz...bvplíe ienps dirsiíc l "fdu" tfvdzol nenftéy...qpls tswz...wl u xfvxtoll itxp aszsidxz npxi pp ufp qtyrts j djphxp, iy wbd msnfclt aiv fp dtnafi iinsp oy uvi nzodoqp qt aszjmp fctmwi...nbqád dfcé weqek of dyv tyqtdtyrui alsl uphytpo...yc wjuftfcu pp wzj qlle ní qtdnz...ypme epoíl leaór, dzmz ybjwez qlle bxzcnphxbv l wpd xináw, wl hphxf wp mvcfe ei xt...oz mi bpprslh gpr wz rfy lbkz...",
+      "arg": "Fdnsz gzytncioxp of boi nm pdgfyvas yz wlfi me apol jese pxqptes, rz pt eur jrepspmeoxp z beledxtgp wi uvi slhz, ¿jss ufé looi tfvotfyxs nm xlmocxp xtpnai lbgtpooi emkz ltí?...dipp...ufpsíl bedic lmri uvi wp ucunfvl fol msovtdb l kyjiypt bomfvz l bvplíe ienps dirsiíc l \"fdu\" tfvdzol nenftéy...qpls tswz...wl u xfvxtoll itxp aszsidxz npxi pp ufp qtyrts j djphxp, iy wbd msnfclt aiv fp dtnafi iinsp oy uvi nzodoqp qt aszjmp fctmwi...nbqád dfcé weqek of dyv tyqtdtyrui alsl uphytpo...yc wjuftfcu pp wzj qlle ní qtdnz...ypme epoíl leaór, dzmz ybjwez qlle bxzcnphxbv l wpd xináw, wl hphxf wp mvcfe ei xt...oz mi bpprslh gpr wz rfy lbkz..."
     };
 
     function checkCode() {
       const input = document.getElementById("codeInput").value.trim().toLowerCase();
       const messageDiv = document.getElementById("message");
       const matchedSecret = secrets[input];
-
-      messageDiv.textContent = matchedSecret || "Word Unmatched. Have other idea in mind?.";
+      messageDiv.textContent = matchedSecret || "Word Unmatched. Have other idea in mind?";
     }
   </script>
 
